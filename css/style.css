@@ -2,6 +2,14 @@
   filter: brightness(50%);
 }
 
+.ready-section {
+  width: 1320px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media only screen and (max-width: 576px) {
   .slider-img img {
     height: 380px;
